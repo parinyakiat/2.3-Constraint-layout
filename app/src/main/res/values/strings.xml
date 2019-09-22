@@ -7,5 +7,8 @@
     <string name="box_five">Box Five</string>
     <string name="how_to_play">How To Play</string>
     <string name="tap_the_scree_and_buttons">Tap the scree and button</string>
+    <string name="button_red">RED</string>
+    <string name="button_yellow">YELLOW</string>
+    <string name="button_green">Green</string>
 
 </resources>
